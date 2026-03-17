@@ -1,7 +1,7 @@
 Flask
 ccxt
-pandas
-pandas-ta
+pandas==2.2.2
+pandas-ta @ git+https://github.com/twopirllc/pandas-ta.git@development
 APScheduler
 requests
 gunicorn
