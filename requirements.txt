@@ -1,0 +1,7 @@
+Flask
+ccxt
+pandas
+pandas-ta
+APScheduler
+requests
+gunicorn
